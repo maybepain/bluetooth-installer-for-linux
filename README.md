@@ -24,9 +24,11 @@ Perfect for developers, sysadmins, and users maintaining minimal or optimized Li
 ---
 
 ## 🚀 Installation & Usage
-
-### 1. Clone the Repository
-Pull the source environment down to your local directory setup:
 ```bash
 git clone [https://github.com/yourusername/linux-bluetooth-installer.git](https://github.com/yourusername/linux-bluetooth-installer.git)
 cd linux-bluetooth-installer
+chmod +x bt_installer.py
+python3 bt_installer.py
+
+
+
