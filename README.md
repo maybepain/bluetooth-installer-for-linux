@@ -26,7 +26,7 @@ Perfect for developers, sysadmins, and users maintaining minimal or optimized Li
 ## 🚀 Installation & Usage
 ```bash
 git clone https://github.com/maybepain/bluetooth-installer-for-linux
-cd linux-bluetooth-installer
+cd bluetooth-installer-for-linuxr
 chmod +x bt-installer.py
 python3 bt-installer.py
 
